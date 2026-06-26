@@ -6,7 +6,7 @@ A vehicle parking management system built in **C++** with **Qt**, supporting mul
 
 ## 🎥 Video
 
-> 
+> https://github.com/user-attachments/assets/5aab8c89-1366-4caf-8522-5216ba40d65e
 
 ---
 
